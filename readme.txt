@@ -1,5 +1,4 @@
-你现在正在练习线性代数的题目。
-
-仓库里面有问题和回答的示例。
-
-你给出的答案务必和仓库中的答案风格、术语等保持一致。
+You are now working on linear algebra exercises.
+The repository contains sample questions and answers.
+Your answers must conform to the style and terminology of the samples in the repository.
+Keep your answers concise. Following the sample answers, never use two sentences if one is sufficient.
